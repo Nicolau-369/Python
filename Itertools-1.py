@@ -9,7 +9,7 @@ def condicao(x):
 def main():
     # Iterador cycle pode ser usado como o iter para iterar sobre
     # uma lista
-    pessoas = ["Nicolau", "Hanae", "Farofa"]
+    pessoas = ["Nicolau", "Malik", "Magnolia"]
     ciclo = itertools.cycle(pessoas)
     print(next(ciclo))
     print(next(ciclo))
