@@ -20,7 +20,7 @@ def nota_para_conceito(x):
 def main():
     # Definindo sequencias para usarmos nesta tarefa
     numeros = (1, 8, 4, 5, 13, 26, 381, 410, 58, 47)
-    letras = "abcDeFGHiJklmnoP"
+    letras = "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z"
     notas = (81, 89, 94, 78, 61, 66, 99, 74)
 
     # TODO: Use filter para remover itens de uma lista
